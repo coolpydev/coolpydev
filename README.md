@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 ### Basics
-- 🔭 I’m currently working on a project to simplify algorithms and data structure learning.
+- 🔭 I’m currently looking for a job, if you need an employee find me.
 - 🌱 I’m currently learning Hack and HHVM
 - 👯 I’m looking to collaborate on any open source project to help in flight path automation, command control, NPNT and aviation software.
-- 🤔 I’m looking for help with OpenMaps sync and golang servers.
-- 💬 Ask me about anything except programming :P
+- 🤔 I’m looking for help with flask API.
+- 💬 Ask me about nothing
 - 📫 How to reach me: 
 facebook.com/vinuyer
 linkedin.com/in/vinuyer
