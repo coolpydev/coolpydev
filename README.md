@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 ### Basics
-- 🔭 I’m a QA, learning react.
+- 🔭 I’m a SDET, frontend engineer (angular) learning react.
 - 🌱 I’m building full stack projects
 - 👯 I’m looking to collaborate on any open source project.
 - 🤔 I’m looking for help with REST API.
 - 💬 Ask me about nothing
 - 📫 How to reach me:
 linkedin.com/in/vinuyer
-- ⚡ Fun fact: my friends say I'm !funny. 
+
