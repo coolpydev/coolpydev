@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ### Basics
-- 🔭 I’m a SDET, frontend engineer (angular) learning react.
+- 🔭 I’m a SDE, frontend engineer (angular) learning react.
 - 🌱 I’m building full stack projects
 - 👯 I’m looking to collaborate on any open source project.
 - 🤔 I’m looking for help with REST API.
